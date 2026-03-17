@@ -1,0 +1,21 @@
+// Constrained code starts here
+import java.util.Scanner;
+
+class PersonDetails {
+     public static void main(String[] args) {
+        displayPersonalDetails();
+        displayQualificationDetails();
+    }
+    static Scanner sc = new Scanner(System.in);
+// Constrained code ends here
+
+    static void displayPersonalDetails() {
+        // complete this method
+    }
+
+    static void displayQualificationDetails() {
+        // complete this method
+// Constrained code starts here
+    }
+}
+// Constrained code ends here
